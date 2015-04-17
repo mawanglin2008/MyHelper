@@ -12,7 +12,7 @@ namespace Demo
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Response.Write(MyDateTimeHelper.GetWeekofyear(Convert.ToDateTime("2013-02-16")));
+            Response.Write(MyDateTimeHelper.GetWeekofyear(DateTime.Now));
         }
     }
 }

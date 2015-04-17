@@ -14,3 +14,12 @@ D:\Projects\MyHelper\Demo\obj\Release\Demo.dll
 D:\Projects\MyHelper\Demo\obj\Release\Demo.pdb
 D:\Projects\MyHelper\Demo\bin\MyHelper4Web.xml
 E:\WebSite\Project\MyHelper\Demo\bin\MyHelper4Web.xml
+D:\AllOfProjects\MyHelper\Demo\bin\Demo.dll.config
+D:\AllOfProjects\MyHelper\Demo\bin\Demo.dll
+D:\AllOfProjects\MyHelper\Demo\bin\Demo.pdb
+D:\AllOfProjects\MyHelper\Demo\bin\MyHelper4Web.dll
+D:\AllOfProjects\MyHelper\Demo\bin\MyHelper4Web.pdb
+D:\AllOfProjects\MyHelper\Demo\bin\MyHelper4Web.xml
+D:\AllOfProjects\MyHelper\Demo\obj\Release\Demo.csprojResolveAssemblyReference.cache
+D:\AllOfProjects\MyHelper\Demo\obj\Release\Demo.dll
+D:\AllOfProjects\MyHelper\Demo\obj\Release\Demo.pdb
